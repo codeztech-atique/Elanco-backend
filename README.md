@@ -18,7 +18,7 @@ https://documenter.getpostman.com/view/2063706/2s93kz65c4
 
 # Steps to run the application
 
-npm install
+npm install <br />
 npm start
 
 
