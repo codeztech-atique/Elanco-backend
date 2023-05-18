@@ -1,0 +1,9 @@
+{
+    "maximumSizeDataTransfer": "15mb",
+    "success": {
+        "statusCode": 200
+    },
+    "error": {
+        "statusCode": 400
+    }
+}
