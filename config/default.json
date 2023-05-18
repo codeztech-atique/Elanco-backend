@@ -1,5 +1,8 @@
 {
     "maximumSizeDataTransfer": "15mb",
+    "listApplication": "APP_DE923DEDDSMD_DSSA",
+    "listResource": "RES_SO93234SPSMD_DSSA",
+    "setCacheTTLInSeconds": 43200,
     "success": {
         "statusCode": 200
     },
